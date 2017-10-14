@@ -1,0 +1,10 @@
+C:\Temp\mvccore\bin\Debug\netcoreapp2.0\mvccore.deps.json
+C:\Temp\mvccore\bin\Debug\netcoreapp2.0\mvccore.runtimeconfig.json
+C:\Temp\mvccore\bin\Debug\netcoreapp2.0\mvccore.runtimeconfig.dev.json
+C:\Temp\mvccore\bin\Debug\netcoreapp2.0\mvccore.dll
+C:\Temp\mvccore\bin\Debug\netcoreapp2.0\mvccore.pdb
+C:\Temp\mvccore\obj\Debug\netcoreapp2.0\mvccore.csproj.CoreCompileInputs.cache
+C:\Temp\mvccore\obj\Debug\netcoreapp2.0\mvccore.AssemblyInfoInputs.cache
+C:\Temp\mvccore\obj\Debug\netcoreapp2.0\mvccore.AssemblyInfo.cs
+C:\Temp\mvccore\obj\Debug\netcoreapp2.0\mvccore.dll
+C:\Temp\mvccore\obj\Debug\netcoreapp2.0\mvccore.pdb
